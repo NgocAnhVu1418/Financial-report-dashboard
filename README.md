@@ -20,9 +20,7 @@ The final goal is to generate an **evidence-based investment recommendation** su
 
 ---
 
-# Key Analytical Components
-
-The valuation process consists of the following stages:
+# Project 
 
 ### 1. Business & Industry Analysis
 - Evaluated Whitehaven Coal’s business model, operational strategy, and growth drivers

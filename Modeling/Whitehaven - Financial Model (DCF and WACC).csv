@@ -1,0 +1,41 @@
+Capital Structure,,Notes,,,DCF Projections,,,,,,,,,,
+Market Value of Debt,2083.00,,,,,,,,,,,,,,
+Market Value of Equity,5618.86,,,,,,,,,,,,,,
+Weight of Debt (w_d),27.05%,,,,DCF Projections,,,,,,,,,,
+Weight of Equity (w_e),72.95%,,,,,2021A,2022A,2023A,2024A,2025A,2026E,2027E,2028E,2029E,2030E
+,,,,,Revenue,1557,4920,6065,3824,5832,6034.9536,6216.002208,6371.402263,6498.830308,6596.312763
+Cost of Debt,,,,,    Bear Case,,,,,,-2.32%,-2.32%,-2.32%,-2.32%,-2.32%
+After-tax cost of debt,6.89%,,,,    Base Case (Growth),,,,,,3.48%,3.00%,2.50%,2.00%,1.50%
+Cost of Debt (r_d),9.84%,,,,    Bull Case,,,,,,9.27%,9.27%,9.27%,9.27%,9.27%
+Tax Rate (T),30.00%,,,,"COGS, excl. D&A",1031,1142,1292,1992,3655,2722,2804,2874,2931,2975
+,,,,,    Bear Case,,,,,,66%,66%,66%,66%,66%
+Cost of Equity,,,,,    Base Case (as a & of sales),,,,,,45%,45%,45%,45%,45%
+Market Risk Premium,6%,Based off MQU Business Valuation Paper,,,    Bull Case,,,,,,21%,21%,21%,21%,21%
+Risk Free Rate,4.275%,,,,Royalties,109,369,438,346,663,603,622,637,650,660
+Beta,0.72,,,,Coal Purchases,174,308,318,104,138,208,208,208,208,208
+Market Return,6.43%,,,,Gross Profit,243,3102,4017,1382,1376,2501,2582,2652,2709,2753
+Cost of Equity,8.575%,Using MRP of 6%,,,SG&A,46,49,62,589,79,59,59,59,59,59
+,,,,,D&A,261,239,226,319,607,615,615,615,615,615
+Weighted Average Cost of Capital,8.12%,,,,EBIT,-63,2814,3729,474,690,1827,1908,1978,2035,2079
+,,,,,Tax Rate,30%,30%,30%,30%,30%,30%,30%,30%,30%,30%
+Share Price Calculation,,,,,EBITAT,-44,1970,2610,332,483,1279,1336,1385,1425,1455
+WACC,8.12%,,,,ADD: D&A Expense,261,239,226,319,607,615,615,615,615,615
+Terminal Growth Rate (TGR),2.00%,,,,LESS: Capex,,,241,454,390,390,390,390,390,390
+Total Present Value of Free Cash Flow,6029.71,,,,  Operating NWC (as a & of Revenue),4%,20%,32%,-17%,4%,9%,9%,9%,9%,9%
+Terminal Value,27871.41,,,,  Operating NWC,65,980,1924,-636,218,518,534,547,558,566
+Present Value of Terminal Value,18864.39,,,,LESS: Change in NWC,,915,943,-2560,854,300,16,13,11,8
+,,,,,Free Cash Flow,,,1652,2756,-154,1204,1545,1596,1639,1672
+Enterprise Value,24894.10,,,,Present Value of Free Cash Flow,,,,,,1114,1322,1263,1199,1132
+Cash and Cash Equivalents,1206.00,,,,,,,,,,,,,,
+Market Value of Debt,2083.00,,,,Assumptions:,,Notes:,,,,,,,,
+Equity Value ,24017.10,,,,Revenue Growth ,,,,,,,,,,
+Fully Diluted Shares Outstanding,832423807,,,,Upside:,9.27%,From FY26 WHC Guidance,,,,,,,,
+Implied Share Price,28.85200656,,,,Downside:,-2.32%,Then decrease to 1.5% as company matures,,,,,,,,
+,,,,,Base:,3.48%,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,CAPEX ,,From FY26 WHC Guidance,,,,,,,,
+,,,,,Upside:,13%,,,,,,,,,
+,,,,,Downside:,-13%,,,,,,,,,
+,,,,,Base:,0%,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,Operating NWC (as a & of Revenue),9%,5Y hist. avg.,,,,,,,,

@@ -1,4 +1,4 @@
-# Corporate Valuation – Whitehaven Coal (ASX: WHC)
+# 📊 Corporate Valuation – Whitehaven Coal (ASX: WHC)
 
 This project presents a comprehensive corporate valuation of **Whitehaven Coal Ltd (ASX: WHC)** using a Discounted Cash Flow (DCF) framework. The objective is to evaluate whether the company’s stock is fairly valued relative to its market price and determine its suitability for inclusion in an investment portfolio.
 
@@ -6,11 +6,13 @@ This project was completed as part of the **FINC6021 Corporate Valuation course 
 
 ---
 
-# Project Objective
+# 🎯 Project Objective
 
-The primary objective of this project is to perform a **fundamental valuation analysis** of an ASX-listed company through:
+The objective of this project is to perform a fundamental valuation analysis of an ASX-listed company by combining financial analysis, industry research, and financial modelling.
 
-- Financial statement analysis
+The analysis focuses on:
+
+- Interpreting financial statements
 - Industry and strategic analysis
 - Forecasting financial performance
 - Estimating cost of capital
@@ -20,12 +22,14 @@ The final goal is to generate an **evidence-based investment recommendation** su
 
 ---
 
-# Project 
+# 🔎 Project Approach
 
 ### 1. Business & Industry Analysis
 - Evaluated Whitehaven Coal’s business model, operational strategy, and growth drivers
-- Assessed industry dynamics and peer group comparison
-- Analysed macroeconomic and commodity demand factors influencing revenue growth
+- Competitive positioning within the coal mining industry
+- Demand dynamics across key export markets, particularly in Asia
+
+This stage helps establish the economic drivers behind the company’s revenue and profitability.
 
 ### 2. Revenue Growth Forecast
 Estimated forward revenue growth based on:
@@ -34,11 +38,13 @@ Estimated forward revenue growth based on:
 - company operational guidance
 - industry demand outlook for metallurgical and thermal coal markets
 
+These insights were used to develop realistic assumptions for forward financial projections.
+
 ---
 
 ### 3. Cost of Debt Estimation
 
-Calculated the company's cost of debt based on:
+The company’s cost of debt was estimated using information from financial statements and financing disclosures, including:
 
 - total interest-bearing obligations
 - interest expense on borrowings and lease liabilities
@@ -47,7 +53,7 @@ Calculated the company's cost of debt based on:
 Result:
 
 - **Pre-tax cost of debt: 9.84%**
-- **After-tax cost of debt: 6.89%** :contentReference[oaicite:2]{index=2}
+- **After-tax cost of debt: 6.89%**
 
 ---
 
@@ -63,7 +69,7 @@ Inputs include:
 
 Result:
 
-- **Cost of Equity: 8.575%** :contentReference[oaicite:3]{index=3}
+- **Cost of Equity: 8.575%**
 
 ---
 
@@ -95,7 +101,7 @@ Calculated the firm’s WACC using the estimated cost of equity and cost of debt
 
 Result:
 
-**WACC = 8.12%** :contentReference[oaicite:4]{index=4}
+**WACC = 8.12%**
 
 ---
 
@@ -108,17 +114,15 @@ Results:
 - Implied intrinsic share price: **AUD $28.85**
 - Market price (1 Sept 2025): **AUD $6.75**
 
-Investment conclusion:
-
-**STRONG BUY** :contentReference[oaicite:5]{index=5}
+**📈 Investment Recommendation: STRONG BUY** 
 
 ---
 
-# Key Insights
+# 💡 Key Insights
 
 The analysis suggests that Whitehaven Coal is **significantly undervalued** based on its projected free cash flows and operational performance.
 
-Drivers of value include:
+The valuation highlights several important drivers of value:
 
 - strong Asian demand for metallurgical coal
 - operational efficiency improvements
@@ -133,30 +137,15 @@ However, valuation outcomes remain sensitive to:
 
 ---
 
-# Skills Demonstrated
+# 🧠 What I Learned From This Project
 
-This project demonstrates competencies relevant to **audit, financial advisory, and consulting roles**, including:
+This project helped me develop a deeper understanding of how financial analysis translates into real investment decisions.
 
-### Financial Analysis
-- Financial statement interpretation
-- Valuation modelling
-- Cost of capital estimation
+Key learning outcomes include:
 
-### Analytical & Quantitative Skills
-- Scenario-based financial modelling
-- Forecasting and sensitivity analysis
-- Discounted cash flow valuation
+- interpreting financial statements to build forecasting assumptions
+- translating financial data into structured financial models
+- estimating a firm’s cost of capital using CAPM and WACC
+- understanding how business fundamentals drive valuation outcomes
 
-### Audit-Relevant Capabilities
-- Data validation and reconciliation
-- Assumption testing and evidence-based reasoning
-- Structured documentation of financial assumptions
-
-### Professional Skills
-- Analytical problem solving
-- Financial storytelling
-- Evidence-based decision making
-
----
-
-# Repository Structure
+It also strengthened my ability to connect financial results with underlying business operations, which is essential in fields such as audit, financial advisory, and investment analysis.
